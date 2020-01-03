@@ -1,0 +1,260 @@
+
+	*{
+	margin: 0px;
+padding: 0px;
+}
+
+#wraper{
+width:auto;
+margin: auto;
+height: auto;
+background-color: white;
+}
+#header{
+	width:1583px;
+	height: 180px;
+
+}
+#dangnhap{
+	width: 350px;
+	height: 200px;
+	border: 1px solid #ccc;
+	margin-left: 300px;
+	margin-top: 150px;
+	text-align: center;
+	font-family: serif;
+}
+
+#header img{
+	width: 1583px;
+	height: 180px;
+}
+.carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: 1200px;
+      height: 550px;
+      margin: auto;
+  }
+#menu{
+	width: 1583px;
+	height: 40px;
+
+}
+
+#main #right{
+	width: 1200px;
+	height:1500px;
+	background-color:white;
+	float: right;
+
+}
+#main #right ul{
+	margin: 0px;
+	padding: 0px;
+}
+#main #right ul li{
+	list-style: none;
+	clear: left;
+	/* border-bottom: 2px solid #ccc; */
+	/* float: left; */
+}
+#main #right ul li h2{
+font-family: serif;
+}
+#main{
+	margin-top: 10px;
+}
+#main #right p{
+	margin-left: 35px;
+	margin-top: 10px;
+	font-size: 16px;
+	font-family: serif;
+}
+#main #right ul li img{
+	width: 160px;
+	height: 120px;
+	float: left;
+	margin-left: 10px;
+	margin-bottom: 20px;
+	border: 1px solid #ccc;
+}
+#Khoihinh{
+	width: 1200px;
+	height:550px;
+}
+#khoi1{
+	width: 550px;
+	height:450px;
+	border-top: 5px solid skyblue;
+	margin-left: 20px;
+	margin-top: 5px;
+	float: left;
+}
+#khoi2{
+	width: 360px;
+	height:320px;
+	margin-left: 150px;
+	margin-top: 40px;
+	float: left;
+}
+#Khoi4{
+	
+	height: 200px;
+	width: 220px; 
+	font-family: serif;
+	text-align: center;
+	color: black;
+	float: left;
+	margin-left:100px;
+	padding-top: 100px;
+	
+}
+#Khoi4 img{
+border-radius:50%;
+-moz-border-radius:50%;
+-webkit-border-radius:50%;
+border: 4px solid lightblue;
+
+}
+#Khoi5{
+	
+	height: 200px;
+	width: 220px; 
+	font-family: serif;
+	text-align: center;
+	color: black;
+	float: left;
+	margin-left: 100px;
+	padding-top: 100px;
+}
+#Khoi5 img{
+border-radius:50%;
+-moz-border-radius:50%;
+-webkit-border-radius:50%;
+border: 4px solid lightblue;
+}
+#Khoi6{
+	
+	height: 200px;
+	width: 220px; 
+	font-family: serif;
+	text-align: center;
+	color: black;
+	float: left;
+	margin-left: 100px;
+	padding-top: 100px;
+}
+#Khoi6 img{
+border-radius:50%;
+-moz-border-radius:50%;
+-webkit-border-radius:50%;
+border: 4px solid lightblue;
+}
+#icon:hover{
+	-webkit-transform:scale(1.1); /*Webkit: Tăng kích cỡ ảnh lên 1.1 lần*/
+	 moz-transform:scale(1.1); 
+	-o-transform:scale(1.1); 
+	box-shadow:0px 0px 20px gray; /*Đổ bóng bằng CSS3*/
+	 -webkit-box-shadow:0px 0px 20px gray;
+	-moz-box-shadow:0px 0px 20px gray; 
+	opacity: 1; Độ mờ của hình ảnh
+}
+#main #left{
+	width: 350px;
+	height:1500px;
+	float: left;
+	}
+.menu_left{
+	border: 1px solid skyblue;
+}
+.video {
+width: 354px;
+height: 270px;
+float: left;
+border: 1px solid skyblue;
+margin-top: 20px;
+}
+.anh{
+width: 354px;
+height: 250px;
+float: left;
+border: 1px solid skyblue;
+margin-top: 20px;
+font-size: 14px;
+}
+.anh img{
+width: 354px;
+height: 250px;
+}
+#main #left .menu_left ul{
+	margin: 0px;
+	padding: 0px;
+	
+	}
+#main #left .menu_left ul li{
+	list-style-type: none;
+	}
+#main #left .menu_left ul li a{
+	display: block;
+	text-decoration: none;
+	line-height: 35px;
+	border-bottom: 1px solid #ccc;
+	padding: 0em;
+	background: url('image/check.png') no-repeat 2px;
+	text-indent: 40px;
+	}
+#main #left .menu_left ul li:hover{
+	background: skyblue;
+}
+
+#main #left .menu_left h3{
+	background: #0066CC url('image/iconmenu.png') no-repeat 3px;
+	height: 40px;
+	margin-top: 0px;
+	font-size: 14px;
+	line-height: 40px;
+	color: white;
+	text-indent: 37px;
+}
+#gthieu{
+	width: 800px;
+	height: auto;
+	border: 1px solid black;
+	text-align: center;
+	margin-left: 400px;
+}
+#footer{
+	width:auto;
+	height: 270px;
+	clear: both;
+	background-color:#0066cc;
+
+}
+.khoinho{
+	width:300px;
+	height: 230px;
+	margin-left: 80px;
+	float: left;
+	color: white;
+	
+}
+.khoinho ul li{
+	list-style-type: none;
+}
+
+#tt{
+	color: blue;
+	text-align: center;	
+}	
+#content{
+	text-align: left;
+	font-size: 24px;
+	color: black;
+	margin-left: 100px;
+}
+
+#hienthi{
+	font-size: 14px;
+	border: 1px soild black;
+}
+
